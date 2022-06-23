@@ -1,0 +1,14 @@
+/*CSS Reset*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+
+.home-img{
+	width: 500px;
+	height: 500px;
+	
+}
